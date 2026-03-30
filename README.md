@@ -77,7 +77,8 @@ Click on any of the lines above to see the details.
     <img src="https://img.shields.io/badge/Download_MangaFox_Mod_Apk-2EA043?style=for-the-badge&logo=android&logoColor=white" alt="Download MangaFox Mod Apk">
   </a><br>
   <a href="https://github.com/msrofficial/Mangafox-Mod/releases">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fever-badge.vercel.app%2Fapi%2Fbadge%3Fuser%3Dmsrofficial%26repo%3DMangafox-Mod%26base%3D10000" alt="Total Downloads"/>
+    ![Downloads](https://img.shields.io/github/downloads/msrofficial/MangaFox-Mod/total?style=for-the-badge&color=blue)
+
   </a>
   <br>
 </div>
