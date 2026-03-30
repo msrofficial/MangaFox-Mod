@@ -84,22 +84,6 @@ Click on any of the lines above to see the details.
 
 ---
 
-## More Mods by MSR
-
-> Check out other modified apps maintained by the same developer:
-
-<div align="center">
-
-| App | Repository |
-| :---: | :---: |
-| 🎌 Anilab Mod | [msrofficial/Anilab-Mod](https://github.com/msrofficial/Anilab-Mod) |
-| 🎬 MovieBox Mod | [msrofficial/Moviebox-Mod](https://github.com/msrofficial/Moviebox-Mod) |
-| 📺 OnStream Mod | [msrofficial/OnStream-Mod](https://github.com/msrofficial/OnStream-Mod) |
-
-</div>
-
----
-
 ## Community & Support
 
 Join for the latest updates, mod requests, and discussions:
@@ -109,6 +93,22 @@ Join for the latest updates, mod requests, and discussions:
 | MSR PatcH (Main Channel) |
 | :---: |
 | [![MSR PatcH](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@msrpatch&style=for-the-badge&label=%20MSR%20PatcH%20&color=8B5CF6)](https://t.me/msrpatch) |
+
+</div>
+
+---
+
+## More Mods by MSR
+
+> Check out other modified apps maintained by the same developer:
+
+<div align="center">
+
+| App | Repository |
+| :---: | :---: |
+| Anilab Mod | [msrofficial/Anilab-Mod](https://github.com/msrofficial/Anilab-Mod) |
+| MovieBox Mod | [msrofficial/Moviebox-Mod](https://github.com/msrofficial/Moviebox-Mod) |
+| OnStream Mod | [msrofficial/OnStream-Mod](https://github.com/msrofficial/OnStream-Mod) |
 
 </div>
 
