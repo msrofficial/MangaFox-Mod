@@ -73,7 +73,7 @@ Click on any of the lines above to see the details.
 ---
 
 <div align="center">
-  <a href="https://github.com/msrofficial/Mangafox-Mod/releases/latest">
+  <a href="https://github.com/msrofficial/MangaFox-Mod/releases/download/1.1.302/Manga.Fox_1.1.302.mod.by.msr.patch.apk">
     <img src="https://img.shields.io/badge/Download_MangaFox_Mod_Apk-2EA043?style=for-the-badge&logo=android&logoColor=white" alt="Download MangaFox Mod Apk">
   </a><br>
 
