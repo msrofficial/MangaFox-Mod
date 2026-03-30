@@ -52,6 +52,20 @@
 4. Open the app and enjoy!
 
 </details>
+<details>
+<summary><b>Google Account Sign-In Method</summary>
+<br>
+
+If you want to log in using your Google Account, follow these steps exactly:
+
+1. Install the **Official MangaFox APK** (from *Playstore*).
+2. Log in with your preferred Google account.
+3. Wait for about 3 seconds(+) to ensure the login data is cached.
+4. **Uninstall** the Official APK.
+5. Install the **MangaFox Mod APK**.
+6. Immediately open the mod and click on the "Login to get coins" text in the menu section.Then click on the telegram text and log in using the same Google account as soon as possible.
+
+</details>
 
 Click on any of the lines above to see the details.
 <br>
